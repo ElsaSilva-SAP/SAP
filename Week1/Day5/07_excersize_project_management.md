@@ -43,18 +43,17 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 
 | Item | Project or Regular Work? | Why? |
 |------|------------------------|------|
-| 1. Daily customer service | _____ | ___________________________________________ |
-| 2. Implementing new software | _____ | ___________________________________________ |
-| 3. Monthly report generation | _____ | ___________________________________________ |
-| 4. Organizing company event | _____ | ___________________________________________ |
-| 5. Processing invoices daily | _____ | ___________________________________________ |
-| 6. Building new website | _____ | ___________________________________________ |
-| 7. Routine maintenance | _____ | ___________________________________________ |
-| 8. Launching new product | _____ | ___________________________________________ |
+| 1. Daily customer service | RW | ___________________________________________ |
+| 2. Implementing new software | PW | This involves planning, trainning and deployment |
+| 3. Monthly report generation | RW | ___________________________________________ |
+| 4. Organizing company event | PW | ___________________________________________ |
+| 5. Processing invoices daily | RW | ___________________________________________ |
+| 6. Building new website | PW | ___________________________________________ |
+| 7. Routine maintenance | RW | ___________________________________________ |
+| 8. Launching new product | PW | ___________________________________________ |
 
 **Discussion:** What makes something a project?
-> ___________________________________________
-> ___________________________________________
+> Project as timeline plan, specific resources and goal
 
 ---
 
@@ -73,9 +72,10 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 **What needs to happen?**
 
 **Activities:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
+1.Define purpose of Technology Day
+2. Identify stakeholders
+3. Assign project manager
+4. Get approval
 
 **Key Questions:**
 - What is the goal?
@@ -83,9 +83,9 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 - Who will manage the project?
 
 **Your Group's Plan:**
-> ___________________________________________
-> ___________________________________________
-
+> Goal: Showcase new technologies to employees
+Stakeholders: Management, IT team, employees, vendors
+Project Manager: Assigned by management
 ---
 
 ### Phase 2: Planning
@@ -93,10 +93,11 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 **What needs to happen?**
 
 **Activities:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
-4. ___________________________________________
+1. Create task list
+2. Build schedule
+3. Assign responsibilities
+4. Identify risks
+5. Book venue and speakers
 
 **Key Questions:**
 - What tasks need to be done?
@@ -105,14 +106,11 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 - What resources are needed?
 
 **Your Group's Plan:**
-> ___________________________________________
-> ___________________________________________
 
-**Timeline (example):**
-- Week 1: ___________________________________________
-- Week 2: ___________________________________________
-- Week 3: ___________________________________________
-- Week 4: ___________________________________________
+Week 1: Define agenda, budget, stakeholders
+Week 2: Book venue, invite speakers
+Week 3: Prepare demos, communication, logistics
+Week 4: Final checks and rehearsals
 
 ---
 
@@ -121,9 +119,9 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 **What needs to happen?**
 
 **Activities:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
+1. Conduct Technology Day
+2. Manage sessions and demos
+3. Support speakers and attendees
 
 **Key Questions:**
 - How will work be done?
@@ -131,9 +129,8 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 - How will progress be tracked?
 
 **Your Group's Plan:**
-> ___________________________________________
-> ___________________________________________
-
+> Communication: Team meetings, email, chat
+> Progress Tracking: Task checklist, daily status updates
 ---
 
 ### Phase 4: Monitoring & Control
@@ -141,9 +138,9 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 **What needs to happen?**
 
 **Activities:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
+1. Track schedule and budget
+2. Handle issues (speaker delay, technical issues)
+3. Manage changes
 
 **Key Questions:**
 - How will progress be monitored?
@@ -151,8 +148,10 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 - How will changes be managed?
 
 **Your Group's Plan:**
-> ___________________________________________
-> ___________________________________________
+
+> Progress monitored via status meetings
+> Issues escalated to Project Manager
+> Changes approved by stakeholders
 
 ---
 
@@ -161,9 +160,9 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 **What needs to happen?**
 
 **Activities:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
+1. Close event
+2. Collect feedback
+3. Document lessons learned
 
 **Key Questions:**
 - How will project be completed?
@@ -171,8 +170,8 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 - How will success be measured?
 
 **Your Group's Plan:**
-> ___________________________________________
-> ___________________________________________
+> Success Measurement: Attendance, feedback, engagement
+> Lessons Learned: What worked, what to improve
 
 ---
 
@@ -188,22 +187,21 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 
 | Stakeholder | Role | Interest in Project | Your Group's List |
 |-------------|------|---------------------|-------------------|
-| CEO | | | |
-| IT Manager | | | |
-| Finance Manager | | | |
-| End Users | | | |
-| Project Manager | | | |
-| SAP Consultant | | | |
-| Customers | | | |
+| CEO |Responsible of the project | approve decisions | |
+| IT Manager |Technical lead | | |
+| Finance Manager |Budget related/ Costs approval| | |
+| End Users |Employes | | |
+| Project Manager |Coordination between CEO and other project team members | | |
+| SAP Consultant |SAP expert| | |
+| Customers |get the final product and best prices, service   | | |
 
 **Additional Stakeholders Your Group Identified:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- business partner
+- HR
+- Logistics
 
 **Discussion:** Why is it important to identify stakeholders?
-> ___________________________________________
-> ___________________________________________
+> because its important to identify all roles affected in the project for a better workflow and meet the business goal.
 
 ---
 
@@ -218,12 +216,13 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 ### Scope
 
 **What is included:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- gather employes data
+- training on the new software 
+- creating new emails accounts
+- importing old data (still having access to old accounts)
 
 **What is NOT included:**
-- ___________________________________________
+- new pc
 - ___________________________________________
 
 ---
@@ -236,28 +235,28 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 
 | Milestone | Target Date | Your Group's Timeline |
 |-----------|-------------|----------------------|
-| Project Start | | |
-| System Selected | | |
-| Configuration Complete | | |
-| Testing Complete | | |
-| Training Complete | | |
-| Go-Live | | |
-| Project End | | |
+| Project Start | week 1 | |
+| System Selected | Week 2| |
+| Configuration Complete |week3 | |
+| Testing Complete |week 4 | |
+| Training Complete |week 5 | |
+| Go-Live | week 6| |
+| Project End | week 6| |
 
 ---
 
 ### Resources
 
 **People Needed:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- Project Manager
+- IT Specialist
+- Trainer
 
 **Budget Needed:**
-- Software: $___________
-- Training: $___________
-- Support: $___________
-- **Total:** $___________
+- Software: $5,000
+- Training: $2,000
+- Support: $1,500
+- Total: $8,500
 
 ---
 
@@ -267,15 +266,12 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 
 | Risk | Impact (High/Medium/Low) | Probability (High/Medium/Low) | Mitigation |
 |------|---------------------------|-------------------------------|------------|
-| | | | |
-| | | | |
-| | | | |
+User resistance |medium | medium  |Training & communication |
+Data loss  |High  |Low |Backup before migration |
+Delayﾠ| Medium | Medium  | Clear schedule & monitoring |
 
 **Your Group's Risk Management Plan:**
-> ___________________________________________
-> ___________________________________________
 
----
 
 ## 🎯 Exercise 5: Project Management for SAP
 
@@ -286,32 +282,22 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 **Your Task:** Identify how project management applies to this SAP implementation.
 
 **1. What would be the project goal?**
-> ___________________________________________
+> Implement SAP S/4HANA to improve business processes
 
 **2. Who would be the stakeholders?**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+Management, IT, business users, SAP consultants, customers
 
 **3. What would be the main phases?**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- Preparation → Blueprint → Realization → Testing → Go-Live
 
 **4. What would be key milestones?**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- Blueprint sign-off, testing complete, go-live
 
 **5. What would be main risks?**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- Scope creep, poor data migration, user resistance
 
 **6. How would you manage the project?**
-> ___________________________________________
-> ___________________________________________
-
+> Clear planning, strong governance, regular communication, risk management
 ---
 
 ## 🎯 Exercise 6: Project Success Factors
@@ -323,34 +309,32 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 **Success Factors:**
 
 **1. Clear Goals:**
-- Why important: ___________________________________________
-- Example: ___________________________________________
+- Why important: Prevents confusion
+- Example: Defined SAP modules to implement
 
 **2. Good Planning:**
-- Why important: ___________________________________________
-- Example: ___________________________________________
+- Why important: Controls time and cost
+- Example: Detailed project schedule
 
 **3. Strong Team:**
-- Why important: ___________________________________________
-- Example: ___________________________________________
+- Why important: Skills drive quality
+- Example: Experienced SAP consultants
 
 **4. Good Communication:**
-- Why important: ___________________________________________
-- Example: ___________________________________________
+- Why important: Avoids misunderstandings
+- Example: Weekly status meetings
 
 **5. Risk Management:**
-- Why important: ___________________________________________
-- Example: ___________________________________________
+- Why important: Prevents failure
+- Example: Early user training
 
 **Your Group's Top 3 Success Factors:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
+1. Clear goals
+2. Good planning
+3. Communication
 
 **Why These Are Most Important:**
-> ___________________________________________
-> ___________________________________________
-
+> They keep the project aligned, controlled, and transparent.
 ---
 
 ## 🤔 Group Reflection
