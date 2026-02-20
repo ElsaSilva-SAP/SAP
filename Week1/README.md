@@ -98,7 +98,7 @@ This week covers **Understanding Technology** with a focus on:
 
 ---
 
-### Day 5 (Friday, 21 Feb) - Automation & Week 1 Conclusion
+### Day 5 (Friday, 21 Feb) - Automation, SAP Foundations & Week 1 Conclusion
 **Topics Covered:**
 - Difference between Automation and AI
 - Key Aspects and Components of Automation
@@ -111,6 +111,10 @@ This week covers **Understanding Technology** with a focus on:
 - Automated Billing in SAP
 - Automated Allocation of Payments in SAP
 - SAP Integration with External Systems
+- SAP Activate Methodology - Introduction
+- Project Management Basics for SAP
+- Business Process Management (BPM) - Foundation
+- SAP Evolution & History (R/1, R/2, R/3, ECC, S/4HANA)
 - Week 1 Conclusions and Recap
 - Digital Transformation & Business Requirements (Afternoon Session 2)
 - Automation Design & Best Practices (Afternoon Session 3)
@@ -118,15 +122,25 @@ This week covers **Understanding Technology** with a focus on:
 - Week 1 Integration & Week 2 Preparation (Afternoon Session 5)
 - Customer Experience Design Basics (Afternoon Session 6)
 
-**Exercises:**
+**Morning Sessions:**
 - [📄 01_excersize.md - Robotics & Automation](Day5/01_excersize.md)
 - [📄 02_excersize.md - SAP Automation & Week 1 Wrap-Up](Day5/02_excersize.md)
-- [📄 03_afternoon_session.md - Afternoon Session: SAP Automation in Practice](Day5/03_afternoon_session.md)
-- [📄 04_afternoon_session_digital_transformation.md - Afternoon Session 2: Digital Transformation & Business Requirements](Day5/04_afternoon_session_digital_transformation.md)
-- [📄 05_afternoon_session_automation_design.md - Afternoon Session 3: Automation Design & Best Practices](Day5/05_afternoon_session_automation_design.md)
-- [📄 06_afternoon_session_applications_apis.md - Afternoon Session 4: Applications & APIs - Integration Basics](Day5/06_afternoon_session_applications_apis.md)
-- [📄 07_afternoon_session_week1_integration.md - Afternoon Session 5: Week 1 Integration & Week 2 Preparation](Day5/07_afternoon_session_week1_integration.md)
-- [📄 08_afternoon_session_customer_experience.md - Afternoon Session 6: Customer Experience Design Basics](Day5/08_afternoon_session_customer_experience.md)
+- [📄 03_learning_sap_activate.md - Learning: SAP Activate Methodology](Day5/03_learning_sap_activate.md)
+- [📄 04_learning_project_management.md - Learning: Project Management Basics](Day5/04_learning_project_management.md)
+- [📄 05_learning_business_process_management.md - Learning: Business Process Management](Day5/05_learning_business_process_management.md)
+- [📄 06_excersize_sap_activate.md - Group Exercise: SAP Activate](Day5/06_excersize_sap_activate.md)
+- [📄 07_excersize_project_management.md - Group Exercise: Project Management](Day5/07_excersize_project_management.md)
+- [📄 08_excersize_business_process_management.md - Group Exercise: Business Process Management](Day5/08_excersize_business_process_management.md)
+- [📄 09_learning_sap_evolution.md - Learning: SAP Evolution & History](Day5/09_learning_sap_evolution.md)
+- [📄 10_excersize_sap_evolution.md - Group Exercise: SAP Evolution](Day5/10_excersize_sap_evolution.md)
+
+**Afternoon Sessions:**
+- [📄 11_afternoon_session.md - Afternoon Session: SAP Automation in Practice](Day5/11_afternoon_session.md)
+- [📄 12_afternoon_session_digital_transformation.md - Afternoon Session 2: Digital Transformation & Business Requirements](Day5/12_afternoon_session_digital_transformation.md)
+- [📄 13_afternoon_session_automation_design.md - Afternoon Session 3: Automation Design & Best Practices](Day5/13_afternoon_session_automation_design.md)
+- [📄 14_afternoon_session_applications_apis.md - Afternoon Session 4: Applications & APIs - Integration Basics](Day5/14_afternoon_session_applications_apis.md)
+- [📄 15_afternoon_session_week1_integration.md - Afternoon Session 5: Week 1 Integration & Week 2 Preparation](Day5/15_afternoon_session_week1_integration.md)
+- [📄 16_afternoon_session_customer_experience.md - Afternoon Session 6: Customer Experience Design Basics](Day5/16_afternoon_session_customer_experience.md)
 
 ---
 
