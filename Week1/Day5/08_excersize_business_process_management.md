@@ -284,23 +284,22 @@ Registration confirmation
 - Problem 3: Payment errors
 
 **3. Design Improvements:**
-- Improvement 1: ___________________________________________
-- Improvement 2: ___________________________________________
-- Improvement 3: ___________________________________________
+- Improvement 1: Automated approvals
+- Improvement 2: Online payment integration
+- Improvement 3: Real-time confirmation
 
 **4. Create Improved Process Map:**
 ```
-___________________________________________
+Select courses online
     ↓
-___________________________________________
+Automatic approval and payment
     ↓
-___________________________________________
+Instant confirmation
+
 ```
 
 **5. Expected Benefits:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- Faster registration, fewer errors, happier students
 
 ---
 
@@ -313,29 +312,28 @@ ___________________________________________
 **Best Practices:**
 
 **1. Start Simple:**
-- Why: ___________________________________________
-- Example: ___________________________________________
+- Why: Easier to manage and improve
+- Example: Improve one process first
 
 **2. Involve Stakeholders:**
-- Why: ___________________________________________
-- Example: ___________________________________________
+- Why: Better insights and acceptance
+- Example: Include employees in design
 
 **3. Measure Performance:**
-- Why: ___________________________________________
-- Example: ___________________________________________
-
+- Why: Track success
+- Example: Measure processing time
 **4. Continuous Improvement:**
-- Why: ___________________________________________
-- Example: ___________________________________________
-
+- Why: Processes change over time
+- Example: Regular reviews
+  
 **5. Use Technology:**
-- Why: ___________________________________________
-- Example: ___________________________________________
+- Why: Improves speed and accuracy
+- Example: Automation tools
 
 **Your Group's Top 3 Best Practices:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
+1. Start simple
+2. Involve stakeholders
+3. Continuous improvement
 
 ---
 
@@ -344,21 +342,16 @@ ___________________________________________
 ### Discussion Questions
 
 **1. What is the most challenging part of process improvement?**
-> ___________________________________________
-> ___________________________________________
+> Identifying root causes of problems
 
 **2. How does BPM help businesses?**
-> ___________________________________________
-> ___________________________________________
+> Improves efficiency, quality, and flexibility
 
 **3. How does SAP support Business Process Management?**
-> ___________________________________________
-> ___________________________________________
+> Through automation, integration, and monitoring
 
 **4. What process would you most like to improve?**
-> ___________________________________________
-> ___________________________________________
-
+> Online ordering and delivery
 ---
 
 ## 📊 Group Presentation
@@ -373,13 +366,10 @@ ___________________________________________
 **Process Selected:** ___________________________________________
 
 **Key Improvements:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
+Automation, simplification, standardization
 
 **SAP Support:**
-> ___________________________________________
-> ___________________________________________
+Integrated order management, inventory control, invoicing
 
 ---
 
