@@ -47,15 +47,14 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 
 | Phase | Activity Number | Why? |
 |-------|----------------|------|
-| Prepare | _____ | ___________________________________________ |
-| Explore | _____ | ___________________________________________ |
-| Realize | _____ | ___________________________________________ |
-| Deploy | _____ | ___________________________________________ |
-| Run | _____ | ___________________________________________ |
+| Prepare | __3___ | Before the project starts is important to define project goal
+| Explore | __5___ | Analyze requirements and create a project plan
+| Realize | __1___ | Make the system work, testing
+| Deploy | __4___ | Go live 
+| Run | __2___ | Keep the system run and review project results
 
 **Discussion:** Why did you match them this way?
-> ___________________________________________
-> ___________________________________________
+> This is a logical lifecycle process in Project Management. 
 
 ---
 
@@ -82,10 +81,11 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 **What needs to happen in the Prepare phase?**
 
 **Activities:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
-4. ___________________________________________
+1. Define project Scope
+2. Assign Project Management
+3. Project plan
+4. Confirm budget
+5. Set Sctruture
 
 **Key Questions to Answer:**
 - What is the project scope?
@@ -94,9 +94,7 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 - What is the budget?
 
 **Your Group's Plan:**
-> ___________________________________________
-> ___________________________________________
-> ___________________________________________
+> open. . .
 
 ---
 
@@ -105,10 +103,10 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 **What needs to happen in the Explore phase?**
 
 **Activities:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
-4. ___________________________________________
+1.Conduct Fit-to-Standard workshops
+2. Review SAP Best Practices for manufacturing
+3. Identify gaps (e.g., special production flow)
+4. Confirm system design
 
 **Key Questions to Answer:**
 - What are the business requirements?
@@ -117,21 +115,18 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 - How should the solution be designed?
 
 **Your Group's Plan:**
-> ___________________________________________
-> ___________________________________________
-> ___________________________________________
-
----
+> open.. . . 
 
 ### Phase 3: Realize
 
 **What needs to happen in the Realize phase?**
 
 **Activities:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
-4. ___________________________________________
+1. Configure Finance module
+2. Configure Sales processes
+3. Configure Production planning
+4. Integrate with any legacy systems
+5. Start testing cycles
 
 **Key Questions to Answer:**
 - How will we configure SAP?
@@ -140,10 +135,7 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 - How will we build the solution?
 
 **Your Group's Plan:**
-> ___________________________________________
-> ___________________________________________
-> ___________________________________________
-
+> open
 ---
 
 ### Phase 4: Deploy
@@ -151,10 +143,10 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 **What needs to happen in the Deploy phase?**
 
 **Activities:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
-4. ___________________________________________
+1. Final system testing (UAT)
+2. Train users (finance team, sales reps, warehouse)
+3. Migrate data from spreadsheets
+4. Prepare go-live checklist
 
 **Key Questions to Answer:**
 - How will we test the system?
@@ -163,10 +155,7 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 - How will we prepare for go-live?
 
 **Your Group's Plan:**
-> ___________________________________________
-> ___________________________________________
-> ___________________________________________
-
+> 
 ---
 
 ### Phase 5: Run
@@ -174,10 +163,10 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 **What needs to happen in the Run phase?**
 
 **Activities:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
-4. ___________________________________________
+1. Go-live
+2. Monitor performance
+3. Provide support
+4. Optimize reports and workflows
 
 **Key Questions to Answer:**
 - How will we go-live?
@@ -200,56 +189,56 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 
 **Phase 1: Prepare**
 **Best Practices:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- Clear scope definition
+- Executive sponsorship
+- Realistic timeline
+- Risk identification
 
 **Why are these important?**
-> ___________________________________________
+> Wrong Project planing will lead to a project failure
 
 ---
 
 **Phase 2: Explore**
 **Best Practices:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- Stick to standard processes
+- Document gaps clearly
+- Avoid unnecessary customization
 
 **Why are these important?**
-> ___________________________________________
+> unncessary customization will lead to usage of many tool
 
 ---
 
 **Phase 3: Realize**
 **Best Practices:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
-
+- Test early and often
+- Keep changes documented
+- Follow guided configuration
 **Why are these important?**
-> ___________________________________________
+> Important to avoid system instability.
 
 ---
 
 **Phase 4: Deploy**
 **Best Practices:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- Thorough testing
+- Clear user training
+- Clean data migration
 
 **Why are these important?**
-> ___________________________________________
+> Important because go-live errors damage trust.
 
 ---
 
 **Phase 5: Run**
 **Best Practices:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- Monitor KPIs
+- Continuous improvement
+- Quarterly innovation adoption
 
 **Why are these important?**
-> ___________________________________________
+> Important because SAP Cloud evolves constantly.
 
 ---
 
@@ -262,20 +251,22 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 **Benefits of Guided Configuration:**
 
 **1. For Project Team:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
-
+- Clear steps
+- Faster setup
+- Fewer errors
+- Reduced complexity
 **2. For Business Users:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- More predictable processes
+Faster adoption
+Standardized workflows
 
 **3. For the Organization:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- Lower cost
+- Lower risk
+- Faster ROI
+- Scalable system
 
+  
 **Your Group's Summary:**
 > ___________________________________________
 > ___________________________________________
@@ -304,15 +295,14 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 
 | Aspect | Traditional | SAP Activate | Advantage |
 |--------|------------|--------------|-----------|
-| **Speed** | | | |
-| **Risk** | | | |
-| **Quality** | | | |
-| **Cost** | | | |
-| **Success Rate** | | | |
+| **Speed** | slow| faster|  |
+| **Risk** |High | low | |
+| **Quality** | low |high | |
+| **Cost** |high |less | |
+| **Success Rate** | low |high | |
 
 **Your Group's Conclusion:**
-> ___________________________________________
-> ___________________________________________
+> SAP Activate will reduce the risk, make the the process faster and suport the cloud technology
 
 ---
 
@@ -325,34 +315,40 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 **Your Task:** As a group, apply SAP Activate methodology to this scenario.
 
 **1. What would happen in Prepare phase?**
-> ___________________________________________
-> ___________________________________________
+Define scope (inventory, POS integration, CRM)
+Assign project team
+Define rollout plan 
 
 **2. What would happen in Explore phase?**
-> ___________________________________________
-> ___________________________________________
+Fit-to-Standard workshops
+Review retail best practices
+Identify integration needs
 
 **3. What would happen in Realize phase?**
-> ___________________________________________
-> ___________________________________________
+Configure inventory module
+Configure sales processes
+Integrate POS systems
+Testing cycles
 
 **4. What would happen in Deploy phase?**
-> ___________________________________________
-> ___________________________________________
+User training
+Data migration (product lists, customers)
+Go-live readiness
 
 **5. What would happen in Run phase?**
-> ___________________________________________
-> ___________________________________________
+Monitor sales analytics
+Optimize stock levels
+Continuous improvement
 
 **Challenges Your Group Identified:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+Data quality issues
+Change resistance
+Integration complexity
 
 **How SAP Activate Would Help:**
-> ___________________________________________
-> ___________________________________________
-
+Structured phases
+Best practices reduce risk
+Guided configuration reduces mistakes
 ---
 
 ## 🤔 Group Reflection
@@ -360,21 +356,16 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 ### Discussion Questions
 
 **1. Which SAP Activate phase do you think is most challenging? Why?**
-> ___________________________________________
-> ___________________________________________
+> Prepare
 
 **2. How does SAP Activate make implementation easier?**
-> ___________________________________________
-> ___________________________________________
+> structure phases, best pratices and the guided configuration, less customization
 
 **3. What questions do you still have about SAP Activate?**
-> ___________________________________________
-> ___________________________________________
+> what to see in pratice
 
 **4. How does SAP Activate connect to what we learned about project management?**
-> ___________________________________________
-> ___________________________________________
-
+> same base for both topics
 ---
 
 ## 📊 Group Presentation
@@ -387,15 +378,16 @@ Welcome to your group exercise! You'll work together to understand and apply SAP
 - One question for the class
 
 **Key Learnings:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
+
+1. SAP Activate is a structure and standardize process, should be clear and avoid mistakes
+2. Less customization
+3. Best pratices
 
 **Most Interesting Discovery:**
-> ___________________________________________
+> Expert Community to help develop more into the topic
 
 **Question for Class:**
-> ___________________________________________
+> Get a pratical example
 
 ---
 
