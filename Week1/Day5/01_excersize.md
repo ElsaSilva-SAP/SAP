@@ -10,9 +10,9 @@ Welcome to Day 5! Today we're learning about **Robotics and Automation** - how t
 ### Before We Start
 
 **When you hear "Robotics," what do you think of?**
-- [ ] Physical robots
-- [ ] Factory robots
-- [ ] Robot vacuum cleaners
+- [x] Physical robots
+- [x] Factory robots
+- [x] Robot vacuum cleaners
 - [ ] Something complicated
 - [ ] Other: ___________________________________________
 
