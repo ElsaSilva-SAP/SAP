@@ -32,30 +32,33 @@ Welcome to your group exercise! You'll work together to understand and apply Bus
 **Scenario 1: Coffee Shop**
 
 **Business Processes:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
-4. ___________________________________________
+Order taking
+Coffee preparation
+Payment processing
+Inventory management
+Customer service
 
 **Scenario 2: Online Store**
 
 **Business Processes:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
-4. ___________________________________________
+Online Store
+Product browsing
+Order placement
+Payment processing
+Order fulfillment
+Delivery and returns
 
 **Scenario 3: School/University**
 
 **Business Processes:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
-4. ___________________________________________
+Student enrollment
+Course registration
+Fee payment
+Examination management
+Graduation processing
 
 **Discussion:** What makes something a business process?
-> ___________________________________________
-> ___________________________________________
+> has a clear goal, defined steps, inputs and outputs, and roles involved.
 
 ---
 
@@ -71,48 +74,43 @@ Welcome to your group exercise! You'll work together to understand and apply Bus
 - Registering for a course
 - Your choice: ___________________________________________
 
-**Your Group's Choice:** ___________________________________________
+**Your Group's Choice:** Buying a book online
 
 ---
 
 ### Process Map
 
-**Process Name:** ___________________________________________
+**Process Name:** Online Book Purchase
 
-**Goal:** ___________________________________________
+**Goal:** To successfully purchase and receive a book
 
 **Steps:**
 
 ```
-Step 1: ___________________________________________
+Step 1: Customer selects a book
     ↓
-Step 2: ___________________________________________
+Step 2: Add book to cart
     ↓
-Step 3: ___________________________________________
+Step 3: Enter delivery and payment details
     ↓
-Step 4: ___________________________________________
+Step 4: Confirm and place order
     ↓
-Step 5: ___________________________________________
+Step 5: Book is delivered
     ↓
 Complete
 ```
 
 **Who is involved?**
-- ___________________________________________
-- ___________________________________________
+- Customer, Online store system, Payment provider, Delivery service
 
 **Inputs:**
-- ___________________________________________
-- ___________________________________________
+- Book selection, customer details, payment information
 
 **Outputs:**
-- ___________________________________________
-- ___________________________________________
+- Order confirmation, delivered book
 
 **Decisions (if any):**
-- ___________________________________________
-- ___________________________________________
-
+- Is payment successful? (Yes / No)
 ---
 
 ## 🎯 Exercise 3: Process Analysis
@@ -124,34 +122,25 @@ Complete
 **Process Analysis:**
 
 **1. What is the goal of this process?**
-> ___________________________________________
+> To allow customers to buy books easily online
 
 **2. What are the main steps?**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- Select book → Order → Payment → Delivery
 
 **3. Who is involved?**
-- ___________________________________________
-- ___________________________________________
+- Customer, system, logistics team
 
 **4. What problems exist?**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+- Payment failures, delivery delays
 
 **5. Where are the bottlenecks?**
-- ___________________________________________
-- ___________________________________________
+- Order confirmation and delivery
 
 **6. What takes too long?**
-- ___________________________________________
-- ___________________________________________
+- Shipping and delivery
 
 **7. What causes errors?**
-- ___________________________________________
-- ___________________________________________
-
+- Incorrect address or payment details
 ---
 
 ## 🎯 Exercise 4: Process Improvement
@@ -161,27 +150,27 @@ Complete
 **Instructions:** Based on your analysis, improve the process.
 
 **Current Process Problems:**
-1. ___________________________________________
-2. ___________________________________________
-3. ___________________________________________
+1. Manual order verification
+2. Delayed delivery updates
+3. Payment errors
 
 **Improvement Ideas:**
 
 **1. Automation:**
-- What can be automated? ___________________________________________
-- How would it help? ___________________________________________
+- What can be automated? Order confirmation and payment validation
+- How would it help? Speeds up processing and reduces errors
 
 **2. Simplification:**
-- What can be simplified? ___________________________________________
-- How would it help? ___________________________________________
+- What can be simplified? Checkout steps
+- How would it help? Faster order completion
 
 **3. Standardization:**
-- What can be standardized? ___________________________________________
-- How would it help? ___________________________________________
+- What can be standardized? Order and delivery workflow
+- How would it help? Consistent customer experience
 
 **4. Elimination:**
-- What can be removed? ___________________________________________
-- How would it help? ___________________________________________
+- What can be removed? Manual order checks
+- How would it help? Reduces delays
 
 ---
 
@@ -190,24 +179,22 @@ Complete
 **Improved Process:**
 
 ```
-Step 1: ___________________________________________
+Step 1: Select book and checkout
     ↓
-Step 2: ___________________________________________
+Step 2: Automated payment confirmation
     ↓
-Step 3: ___________________________________________
+Step 3: Automated payment confirmation
     ↓
 Complete
 ```
 
 **Improvements Made:**
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+Automation, fewer steps, real-time tracking
 
 **Expected Benefits:**
-- Time saved: ___________________________________________
-- Errors reduced: ___________________________________________
-- Cost saved: ___________________________________________
+- Time saved: Faster checkout and delivery
+- Errors reduced: Automated validation
+- Cost saved: Less manual work
 
 ---
 
@@ -230,22 +217,21 @@ Complete
 **Your Task:** Identify how SAP could support this process.
 
 **1. How would SAP automate this process?**
-> ___________________________________________
-> ___________________________________________
+> SAP would automate order entry, inventory checks, invoicing, and payment processing.
 
 **2. What SAP modules would be used?**
-- ___________________________________________
-- ___________________________________________
+- SAP Sales and Distribution (SD)
+- SAP Materials Management (MM)
+- SAP Finance (FI)
 
 **3. What would the improved process look like?**
-> ___________________________________________
-> ___________________________________________
+> Orders are entered once, inventory is checked automatically, invoices are generated instantly, and warehouse receives tasks electronically.
 
 **4. What benefits would the company get?**
-- Time saved: ___________________________________________
-- Errors reduced: ___________________________________________
-- Cost saved: ___________________________________________
-- Customer satisfaction: ___________________________________________
+- Time saved: Faster order processing
+- Errors reduced: No manual data entry
+- Cost saved: Less paper and labor
+- Customer satisfaction: Faster and accurate service
 
 ---
 
@@ -254,21 +240,21 @@ Complete
 **New Process:**
 
 ```
-Step 1: ___________________________________________
+Step 1: Customer order entered in SAP
     ↓
-Step 2: ___________________________________________
+Step 2: Automatic inventory and pricing check
     ↓
-Step 3: ___________________________________________
+Step 3: Warehouse fulfillment
     ↓
-Step 4: ___________________________________________
+Step 4: Automatic invoicing and payment
     ↓
 Complete
 ```
 
 **SAP Support:**
-- Module 1: ___________________________________________
-- Module 2: ___________________________________________
-- Module 3: ___________________________________________
+- Module 1: SAP SD
+- Module 2: SAP MM
+- Module 3: SAP FI
 
 ---
 
@@ -278,23 +264,24 @@ Complete
 
 **Instructions:** Choose a process from your daily life or work experience and analyze it as a group.
 
-**Process Selected:** ___________________________________________
+**Process Selected:** University course registration
 
 **1. Map the Current Process:**
 ```
-___________________________________________
+Select courses
     ↓
-___________________________________________
+Manual approval
     ↓
-___________________________________________
+Payment
     ↓
-___________________________________________
+Registration confirmation
+
 ```
 
 **2. Identify Problems:**
-- Problem 1: ___________________________________________
-- Problem 2: ___________________________________________
-- Problem 3: ___________________________________________
+- Problem 1: Approval delays
+- Problem 2: System downtime
+- Problem 3: Payment errors
 
 **3. Design Improvements:**
 - Improvement 1: ___________________________________________
