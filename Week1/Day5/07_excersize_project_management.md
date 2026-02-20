@@ -53,7 +53,7 @@ Welcome to your group exercise! You'll work together to understand and apply pro
 | 8. Launching new product | PW | ___________________________________________ |
 
 **Discussion:** What makes something a project?
-> Project as timeline plan, specific resources and goal
+> Project has timeline plan, specific resources and goal
 
 ---
 
