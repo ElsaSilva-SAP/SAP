@@ -40,13 +40,13 @@ Work in a small group to connect **business processes** in one industry to **SAP
 
 ## 📋 Group Worksheet
 
-**Industry we chose:** ___Automotive_______________________________
+**Industry we chose:** Automotive
 
 | # | Business process in this industry | SAP module or solution that could support it |
 |---|-----------------------------------|----------------------------------------------|
-| 1 | Spare Part Inventory_ | ___SAP Automotive_________________________ |
-| 2 | __________HR_______________ | ________SAP HR___________________________________ |
-| 3 | _________Customer Orders  Sales__________________________ | __________SAP CRM_________________________________ |
+| 1 | Spare Part Inventory | SAP Automotive |
+| 2 | HR | SAP HR |
+| 3 | Customer Orders  Sales | SAP CRM |
 
 **Example (Retail):**  
 - Process: “Manage inventory across stores” → SAP for Retail (inventory management)  
