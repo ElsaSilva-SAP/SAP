@@ -47,9 +47,9 @@ By the end of this session, you will:
 **Think of it as:** The "face" of the application
 
 **Your Examples:**
-- ___________________________________________
-- ___________________________________________
-
+- Amazon
+- Whatsapp
+- Instagram
 ---
 
 #### **2. Back-End**
@@ -64,7 +64,7 @@ By the end of this session, you will:
 **Think of it as:** The "engine" of the application
 
 **Your Examples:**
-- ___________________________________________
+- 
 - ___________________________________________
 
 ---
