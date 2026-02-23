@@ -44,9 +44,9 @@ Work in a small group to connect **business processes** in one industry to **SAP
 
 | # | Business process in this industry | SAP module or solution that could support it |
 |---|-----------------------------------|----------------------------------------------|
-| 1 | Spare Part Inventory | SAP Automotive |
-| 2 | HR | SAP HR |
-| 3 | Customer Orders  Sales | SAP CRM |
+| 1 | Spare Part Inventory | SAP MM (Materials Management) |
+| 2 | HR | SAP HCM (Human Capital Management) |
+| 3 | Customer Orders & Sales | SAP CRM |
 
 **Example (Retail):**  
 - Process: “Manage inventory across stores” → SAP for Retail (inventory management)  
@@ -63,8 +63,8 @@ Work in a small group to connect **business processes** in one industry to **SAP
 3. One thing that was easy or difficult to decide  
 
 **Notes for your presentation:**
-> We choose Automotive industry as an example where SAP is important because is in Automotive is used a lot of spare parts for example and this is one good example where SAP helps us manage inventory, suppliers chain and ordering processes.
-> CRM is one important function in the bussiness in order to manage customer information, order  sales and marketing  initiatives.
+> We choose Automotive industry as an example where SAP is important because is in Automotive is used a lot of spare parts for example and for example the use of SAP MM (Materials Management) helps us manage inventory and procede with suppliers ordering processes through SAP SD (Sales & Distribution).
+> SAP CRM is one important function in the bussiness in order to manage customer information, order  sales and marketing  initiatives.
 
 
 ---
@@ -73,7 +73,7 @@ Work in a small group to connect **business processes** in one industry to **SAP
 
 **Why do you think SAP offers industry-specific solutions (e.g. SAP for Retail, SAP for Healthcare) instead of only one generic product?**
 
-> Because every industry needs clear process and structure and customization align with there business.
+> Because every industry needs clear process & structure and customization align with there customers.
 
 ---
 
