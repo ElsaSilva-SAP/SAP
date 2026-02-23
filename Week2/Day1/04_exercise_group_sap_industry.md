@@ -29,7 +29,7 @@ Work in a small group to connect **business processes** in one industry to **SAP
 
 - [ ] Retail  
 - [ ] Healthcare  
-- [ ] Automotive  
+- [x] Automotive  
 - [ ] Other: ___________________________________________
 
 **Step 2:** As a group, list **3 business processes** that are typical for this industry.
@@ -40,13 +40,13 @@ Work in a small group to connect **business processes** in one industry to **SAP
 
 ## 📋 Group Worksheet
 
-**Industry we chose:** ___________________________________________
+**Industry we chose:** ___Automotive_______________________________
 
 | # | Business process in this industry | SAP module or solution that could support it |
 |---|-----------------------------------|----------------------------------------------|
-| 1 | ___________________________________________ | ___________________________________________ |
-| 2 | ___________________________________________ | ___________________________________________ |
-| 3 | ___________________________________________ | ___________________________________________ |
+| 1 | Spare Part Inventory_ | ___SAP Automotive_________________________ |
+| 2 | __________HR_______________ | ________SAP HR___________________________________ |
+| 3 | _________Customer Orders  Sales__________________________ | __________SAP CRM_________________________________ |
 
 **Example (Retail):**  
 - Process: “Manage inventory across stores” → SAP for Retail (inventory management)  
@@ -63,9 +63,9 @@ Work in a small group to connect **business processes** in one industry to **SAP
 3. One thing that was easy or difficult to decide  
 
 **Notes for your presentation:**
-> ___________________________________________
-> ___________________________________________
-> ___________________________________________
+> We choose Automotive industry as an example where SAP is important because is in Automotive is used a lot of spare parts for example and this is one good example where SAP helps us manage inventory, suppliers chain and ordering processes.
+> CRM is one important function in the bussiness in order to manage customer information, order  sales and marketing  initiatives.
+
 
 ---
 
@@ -73,8 +73,7 @@ Work in a small group to connect **business processes** in one industry to **SAP
 
 **Why do you think SAP offers industry-specific solutions (e.g. SAP for Retail, SAP for Healthcare) instead of only one generic product?**
 
-> ___________________________________________
-> ___________________________________________
+> Because every industry needs clear process and structure and customization align with there business.
 
 ---
 
