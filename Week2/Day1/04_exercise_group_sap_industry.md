@@ -63,9 +63,8 @@ Work in a small group to connect **business processes** in one industry to **SAP
 3. One thing that was easy or difficult to decide  
 
 **Notes for your presentation:**
-> We choose Automotive industry as an example where SAP is important because is in Automotive is used a lot of spare parts for example and for example the use of SAP MM (Materials Management) helps us manage inventory and procede with suppliers ordering processes through SAP SD (Sales & Distribution).
+> We choose Automotive industry as an example where SAP is important because in Automotive it´s used a lot of spare parts for example and the use of SAP MM (Materials Management) would helps manage the inventory and procede with suppliers ordering processes through SAP SD (Sales & Distribution).
 > SAP CRM is one important function in the bussiness in order to manage customer information, order  sales and marketing  initiatives.
-
 
 ---
 
