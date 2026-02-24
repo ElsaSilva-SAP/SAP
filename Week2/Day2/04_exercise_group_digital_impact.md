@@ -75,11 +75,12 @@ Customer experience: “Better delivery visibility for customers (track orders i
 
 **Your task:** List **3 ways** digital transformation could affect this organization under each heading. Be specific.
 
-| | Way 1 | Way 2 | Way 3 |
-|---|--------|--------|--------|
-| **Operations** | ___________________________________________ | ___________________________________________ | ___________________________________________ |
-| **Culture** | ___________________________________________ | ___________________________________________ | ___________________________________________ |
-| **Customer experience** | ___________________________________________ | ___________________________________________ | ___________________________________________ |
+|                         | Way 1                                                                                                                            | Way 2                                                                                                                      | Way 3                                                                                                   |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Operations**          | Implement an integrated **Electronic Health Record (EHR)** system so patient data flows from admission to discharge and billing. | Introduce digital scheduling and resource management software to optimize staff shifts, operating rooms, and bed capacity. | Use data analytics dashboards to monitor patient flow, wait times, and treatment outcomes in real time. |
+| **Culture**             | Provide training programs so doctors, nurses, and admin staff confidently use digital tools.                                     | Promote a data-driven decision-making culture (using dashboards instead of intuition alone).                               | Strengthen cybersecurity awareness and patient data privacy practices across all staff.                 |
+| **Customer experience** | Offer online appointment booking and automated reminders via SMS/email.                                                          | Launch a secure patient portal where patients can access test results, prescriptions, and billing information.             | Enable telemedicine/video consultations for follow-ups and non-emergency visits.                        |
+
 
 **Example (you can use different ideas):**  
 Operations: “Integrated systems so patient data flows from admission to billing.”  
