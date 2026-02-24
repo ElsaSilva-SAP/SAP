@@ -35,14 +35,14 @@ Use what you learned in the learning files to complete the activities below.
 
 **Instructions:** Fill in one “before” and one “after” for the same process.
 
-**Example process:** *Customer places an order*
+**Example process:** Customer places an order
 
 |                   | Before (traditional)                                                          | After (digital)                                                                             |
 | ----------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | **Your example:** | Customer calls sales representative who manually enters order into the system | Customer orders directly through an online portal or mobile app with automatic confirmation |
 
 
-**Another process (your choice):** ___________________________________________
+**Another process (your choice):** Employee submits vacation request
 
 |          | Before (traditional)                                        | After (digital)                                                                                    |
 | -------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
