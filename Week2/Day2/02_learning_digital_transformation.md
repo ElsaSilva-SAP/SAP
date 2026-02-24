@@ -106,20 +106,20 @@ Improving the **customer journey** with digital tools leads to more satisfaction
 ## 📝 Knowledge Check
 
 1. **What is digital transformation in one sentence?**
-   - ___________________________________________
+   - Digital transformation is the integration of digital technologies into all areas of a business to improve operations, create value, and drive cultural change.
 
 2. **Name two ways digital transformation can impact “operations.”**
-   - ___________________________________________
+   - Automating processes to improve efficiency and reduce costs.
+   - Using real-time data and analytics to optimize workflows and decision-making.
 
 3. **What does “workforce enablement” mean?**
-   - ___________________________________________
+   - Workforce enablement means providing employees with the skills, tools, training, and support they need to successfully use new digital technologies and adapt to new ways of working.
 
 4. **Give one example of “cultural change” in digital transformation.**
-   - ___________________________________________
+   - Encouraging agility and experimentation — for example, using Scrum or Kanban methods and allowing teams to test new ideas and learn from failure.
 
 5. **Why is “leadership” important for digital transformation?**
-   - ___________________________________________
-
+   - Leadership is important because executives provide vision, resources, and direction, and they ensure alignment between digital initiatives and business strategy while supporting employees through change.
 ---
 
 ## 🎉 Key Takeaways
