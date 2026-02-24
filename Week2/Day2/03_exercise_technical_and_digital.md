@@ -18,13 +18,14 @@ Use what you learned in the learning files to complete the activities below.
 
 **Instructions:** Match each description to **Development**, **Integration**, or **System administration**.
 
-| # | Description | Your answer |
-|---|-------------|-------------|
-| 1 | Connecting SAP to the warehouse management system so orders flow automatically | _________________ |
-| 2 | Writing a custom report in ABAP so finance can see monthly costs by department | _________________ |
-| 3 | Monitoring system performance and planning the next upgrade | _________________ |
-| 4 | Building an app that lets sales enter orders from their phones | _________________ |
-| 5 | Setting up secure access so only HR can see employee salaries | _________________ |
+| # | Description                                                                    | Your answer               |
+| - | ------------------------------------------------------------------------------ | ------------------------- |
+| 1 | Connecting SAP to the warehouse management system so orders flow automatically | **Integration**           |
+| 2 | Writing a custom report in ABAP so finance can see monthly costs by department | **Development**           |
+| 3 | Monitoring system performance and planning the next upgrade                    | **System administration** |
+| 4 | Building an app that lets sales enter orders from their phones                 | **Development**           |
+| 5 | Setting up secure access so only HR can see employee salaries                  | **System administration** |
+
 
 **Check:** 1 – Integration | 2 – Development | 3 – System administration | 4 – Development | 5 – System administration
 
@@ -36,16 +37,17 @@ Use what you learned in the learning files to complete the activities below.
 
 **Example process:** *Customer places an order*
 
-| | Before (traditional) | After (digital) |
-|-|------------------------|------------------|
-| **How?** | e.g. Phone or paper form | e.g. Online portal, app |
-| **Your example:** | ___________________________________________ | ___________________________________________ |
+|                   | Before (traditional)                                                          | After (digital)                                                                             |
+| ----------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **Your example:** | Customer calls sales representative who manually enters order into the system | Customer orders directly through an online portal or mobile app with automatic confirmation |
+
 
 **Another process (your choice):** ___________________________________________
 
-| | Before (traditional) | After (digital) |
-|-|------------------------|------------------|
-| **How?** | ___________________________________________ | ___________________________________________ |
+|          | Before (traditional)                                        | After (digital)                                                                                    |
+| -------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **How?** | Employee fills out paper form and manager signs it manually | Employee submits request in HR system; manager approves digitally and system updates automatically |
+
 
 ---
 
@@ -71,9 +73,7 @@ Use what you learned in the learning files to complete the activities below.
 
 **Why is leadership important for digital transformation?**
 
-> ___________________________________________
-> ___________________________________________
-> ___________________________________________
+> Leadership is important because it provides direction, vision, and resources for digital initiatives. Leaders ensure that digital transformation aligns with business strategy and help employees adapt to change. Without strong executive support, digital projects may fail due to resistance, lack of coordination, or unclear priorities.
 
 ---
 
