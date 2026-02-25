@@ -19,12 +19,12 @@ Use what you learned about **business processes** and **process mapping** to map
 Pick **one** process to map. You can work **individually** or in **pairs**.
 
 **Suggested options:**
-- [ ] **Request leave** (employee asks for leave → manager approves → HR records it)
+- [x] **Request leave** (employee asks for leave → manager approves → HR records it)
 - [ ] **Order to delivery** (customer orders → order confirmed → picked → shipped → delivered)
 - [ ] **New employee onboarding** (contract signed → IT setup → desk → first day intro)
 - [ ] **Other:** ___________________________________________
 
-**Process I am mapping:** ___________________________________________
+**Process I am mapping:** Request leave
 
 ---
 
@@ -32,18 +32,20 @@ Pick **one** process to map. You can work **individually** or in **pairs**.
 
 **Instructions:** Write the steps in order. Use simple action words (e.g. “Submit,” “Approve,” “Send,” “Record”). You can add a decision point (e.g. “If approved → … ; If rejected → …”).
 
-| Step | What happens | Who (role or department) |
-|------|----------------|---------------------------|
-| 1 | ___________________________________________ | ___________________________________________ |
-| 2 | ___________________________________________ | ___________________________________________ |
-| 3 | ___________________________________________ | ___________________________________________ |
-| 4 | ___________________________________________ | ___________________________________________ |
-| 5 | ___________________________________________ | ___________________________________________ |
-| 6 | *(optional)* ___________________________________________ | ___________________________________________ |
-| 7 | *(optional)* ___________________________________________ | ___________________________________________ |
+| Step | What happens                               | Who (role or department) |
+| ---- | ------------------------------------------ | ------------------------ |
+| 1    | Submit leave request in HR system          | Employee                 |
+| 2    | Receive notification of request            | Manager                  |
+| 3    | Review leave balance and team schedule     | Manager                  |
+| 4    | Approve or reject request (decision point) | Manager                  |
+| 5    | Record approved leave in HR system         | HR Department            |
+| 6    | Send confirmation email                    | HR System                |
 
-**Example (request leave):**  
-1. Employee submits leave request (Employee) → 2. Manager reviews (Manager) → 3. If approved, forward to HR; if not, send back (Manager) → 4. HR records leave in system (HR) → 5. Employee receives confirmation (Employee).
+
+Decision Point:
+
+- If approved → HR records leave → confirmation sent
+- If rejected → Employee receives rejection notice
 
 ---
 
@@ -53,13 +55,11 @@ Pick **one** process to map. You can work **individually** or in **pairs**.
 
 **In your process, what is one possible bottleneck or inefficiency?**
 
-> ___________________________________________
-> ___________________________________________
-> ___________________________________________
+> Manager review and approval step.
 
 **Why do you think it is a bottleneck?**
 
-> ___________________________________________
+> If the manager is busy, traveling, or managing many employees, leave requests may sit in their inbox for several days. Since no other step can proceed until approval happens, the entire process is delayed.
 
 ---
 
@@ -67,8 +67,14 @@ Pick **one** process to map. You can work **individually** or in **pairs**.
 
 **If you could change one thing to reduce the bottleneck or improve the process, what would it be?**
 
-> ___________________________________________
-> ___________________________________________
+Introduce an automatic reminder system and backup approver.
+
+For example:
+
+- Automatic reminder sent after 24–48 hours.
+- If no action after 3 days, request is escalated to a backup manager.
+  
+This reduces waiting time and keeps the process moving.
 
 ---
 
@@ -76,8 +82,7 @@ Pick **one** process to map. You can work **individually** or in **pairs**.
 
 **How did mapping the process help you see the bottleneck or inefficiency?**
 
-> ___________________________________________
-> ___________________________________________
+Mapping the process step-by-step made it clear that everything depends on the manager’s approval. Without writing the steps in order, it’s harder to see that one person controls the flow. The visual structure highlights where delays are most likely to occur.
 
 ---
 
