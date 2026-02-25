@@ -57,9 +57,27 @@ This week covers **SAP Product Strategy, Modules, and Enterprise Systems** in li
 
 ---
 
+## 📅 Day 3 (Wednesday) – Business Goals & Process Alignment
+
+**Slide focus:** 26–33 *(Day 2 ended at slide 25; Day 3 starts at slide 26.)*
+
+**Learning:**
+- [01_learning_business_processes_alignment.md](Day3/01_learning_business_processes_alignment.md) – Business processes, KPIs, process mapping, analysis, redesign
+- [02_learning_bpm_video.md](Day3/02_learning_bpm_video.md) – Video: An Introduction to Business Process Management (BPM)
+
+**Exercises:**
+- [03_exercise_process_mapping.md](Day3/03_exercise_process_mapping.md) – Map a simple process and find a bottleneck
+- [04_exercise_group_process_redesign.md](Day3/04_exercise_group_process_redesign.md) – Group: 3 processes (Order approval, Leave request, Invoice handling) – 3 different activities for 3 groups
+
+**Optional:**
+- [05_exercise_optional_kpi_detective.md](Day3/05_exercise_optional_kpi_detective.md) – *(Optional)* KPI Detective
+- [06_exercise_optional_root_cause_quick.md](Day3/06_exercise_optional_root_cause_quick.md) – *(Optional)* Root Cause Quick Practice (5 Whys)
+
+---
+
 ## 🚀 Next Days
 
-- **Day 3–5:** Materials will be added as created. Group exercises will each have **3 different activities for 3 groups**.
+- **Day 4–5:** Materials will be added as created. Group exercises will each have **3 different activities for 3 groups**.
 
 ---
 
