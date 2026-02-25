@@ -56,10 +56,13 @@ Work in **one of three groups**. Each group has a **different process** to analy
 2. **Improvement 1:** One change to the **process** (e.g. steps, roles, or documentation).
 3. **Improvement 2:** One **technology** or tool that could help (e.g. leave system, calendar, SAP HR).
 
+|                                   | Your group's answer                                                                                                                                                                                                                                               |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Current state (2–3 sentences)** | Employees request leave by sending an email directly to their manager. The manager replies with “approved” or “rejected,” but there is no central system to document the decision. HR is often informed too late, and overlapping leave requests are not visible. |
 |                                   | The main problem is the lack of transparency and central record, which leads to payroll errors and overbooking of leave.                                                                                                                                          |
 | **Improvement 1 (process)**       | Introduce a standardized leave request process: all requests must be submitted through one official channel, and HR must automatically be notified after manager approval. Clear rules for checking team availability should be defined.                          |
 | **Improvement 2 (technology)**    | Implement a digital leave management system (e.g. HR module in SAP or a cloud-based HR tool) with automated approval workflow and shared team calendar visibility.                                                                                                |
+                                                                                             |
 
 
 **Presentation:** In 5 min, explain the process, the problem, and your two improvements.
