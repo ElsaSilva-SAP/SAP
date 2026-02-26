@@ -60,20 +60,22 @@ Organizations often use:
 ## 📝 Knowledge Check
 
 1. **What is organizational alignment in one sentence?**
-   - ___________________________________________
+   - Organizational alignment ensures that structure, culture and operations support strategic objectives.
 
 2. **Name the four types of alignment.**
-   - ___________________________________________
+   - Strategic
+   - cultural
+   - structural
+   - operational.
 
 3. **What does “structural alignment” mean?**
-   - ___________________________________________
-
+   - Ensuring teams, roles and reporting lines are designed to support key processes and strategy.
+     
 4. **Give one example of a tool or practice that supports alignment.**
-   - ___________________________________________
+   - Balanced Scorecard, alignment workshops, organizational design or cultural change programs.
 
 5. **Why does alignment matter for an SAP implementation?**
-   - ___________________________________________
-
+   - Because even a technically correct SAP system will fail if people, structure and processes are not aligned to use and support it.
 ---
 
 ## 🎉 Key Takeaways
