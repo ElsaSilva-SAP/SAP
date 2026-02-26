@@ -75,9 +75,42 @@ This week covers **SAP Product Strategy, Modules, and Enterprise Systems** in li
 
 ---
 
-## 🚀 Next Days
+## 📅 Day 4 (Thursday) – Business Requirements, Alignment, OS & Elastic Computing
 
-- **Day 4–5:** Materials will be added as created. Group exercises will each have **3 different activities for 3 groups**.
+**Slide focus:** 34–42 *(Day 3 ended at slide 33.)*
+
+**Learning:**
+- [01_learning_business_requirements.md](Day4/01_learning_business_requirements.md) – Business requirements (functional, non-functional, stakeholder, technical)
+- [02_learning_organizational_alignment.md](Day4/02_learning_organizational_alignment.md) – Organizational alignment (strategic, cultural, structural, operational)
+- [03_learning_operating_systems_elastic.md](Day4/03_learning_operating_systems_elastic.md) – Operating systems, platforms, and elastic computing (incl. SAP)
+
+**Exercises:**
+- [04_exercise_requirements_and_alignment.md](Day4/04_exercise_requirements_and_alignment.md) – Requirements and alignment scenarios
+- [05_exercise_group_requirements_sap.md](Day4/05_exercise_group_requirements_sap.md) – Group: 3 scenarios (Finance & HR, Sales & CRM, Procurement & Manufacturing) – 3 different activities for 3 groups
+
+**Optional:**
+- [06_exercise_optional_requirement_sort.md](Day4/06_exercise_optional_requirement_sort.md) – *(Optional)* Requirement type sort
+- [07_exercise_optional_elastic_vs_traditional.md](Day4/07_exercise_optional_elastic_vs_traditional.md) – *(Optional)* Elastic vs traditional computing
+
+---
+
+## 📅 Day 5 (Friday) – Applications & APIs, CX, Security, Recap
+
+**Slide focus:** 43–51 *(Discussions and recap.)*
+
+**Learning:**
+- [01_learning_applications_apis.md](Day5/01_learning_applications_apis.md) – Applications (front-end, back-end, middleware) and APIs
+- [02_learning_customer_experience_design.md](Day5/02_learning_customer_experience_design.md) – Customer experience (CX) design and SAP Fiori
+- [03_learning_information_security.md](Day5/03_learning_information_security.md) – Information security (CIA, access control, encryption, incident response, policies)
+
+**Exercises:**
+- [04_exercise_apis_cx_security.md](Day5/04_exercise_apis_cx_security.md) – APIs, CX, and security matching and scenario
+- [05_exercise_group_apis_cx_security.md](Day5/05_exercise_group_apis_cx_security.md) – Group: APIs, CX, and Security in practice – 3 different activities for 3 groups (API integration, CX/UX, Security)
+- [06_exercise_group_week2_recap.md](Day5/06_exercise_group_week2_recap.md) – Group: Week 2 recap – 3 different activities for 3 groups (Day 1–2, Day 3–4, Day 5)
+
+**Optional:**
+- [07_exercise_optional_api_in_daily_life.md](Day5/07_exercise_optional_api_in_daily_life.md) – *(Optional)* API in daily life
+- [08_exercise_optional_security_scenario.md](Day5/08_exercise_optional_security_scenario.md) – *(Optional)* Security scenario (e.g. employee leaving)
 
 ---
 

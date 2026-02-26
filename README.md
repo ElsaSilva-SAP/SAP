@@ -90,7 +90,11 @@ SAP/
 │   └── Day5/                   # Day 5 exercises
 ├── Week2/                       # Week 2 morning sessions (afternoon = Coursera)
 │   ├── README.md               # Week 2 guide, slide–day map
-│   └── Day1/                   # Day 1 (Monday) – SAP Product Strategy & Modules
+│   ├── Day1/                   # Day 1 (Monday) – SAP Product Strategy & Modules
+│   ├── Day2/                   # Day 2 (Tuesday) – Technical Modules & Digital Transformation
+│   ├── Day3/                   # Day 3 (Wednesday) – Business Goals & Process Alignment
+│   ├── Day4/                   # Day 4 (Thursday) – Business Requirements, Alignment, OS & Elastic
+│   └── Day5/                   # Day 5 (Friday) – Applications & APIs, CX, Security, Recap
 ├── drafts/                      # Draft materials and source files
 │   ├── Understanding Technology 1.pptx
 │   ├── Understanding Technology 2.pptx
@@ -111,6 +115,8 @@ SAP/
 - [📁 Week 2 Day 1 (Monday)](Week2/Day1/) - SAP Product Strategy & Modules (learning + exercises + optional)
 - [📁 Week 2 Day 2 (Tuesday)](Week2/Day2/) - Technical Modules & Digital Transformation (learning + exercises + optional; group exercise: 3 activities for 3 groups)
 - [📁 Week 2 Day 3 (Wednesday)](Week2/Day3/) - Business Goals & Process Alignment (learning + exercises + optional; group exercise: 3 activities for 3 groups)
+- [📁 Week 2 Day 4 (Thursday)](Week2/Day4/) - Business Requirements, Alignment, OS & Elastic Computing (learning + exercises + optional; group exercise: 3 activities for 3 groups)
+- [📁 Week 2 Day 5 (Friday)](Week2/Day5/) - Applications & APIs, CX, Security, Recap (learning + exercises + optional; group exercise: 3 activities for 3 groups)
   - [Day 1](Week1/Day1/) - [Exercise 1](Week1/Day1/01_excersize.md) | [Exercise 2](Week1/Day1/02_excersize.md) | [Exercise 3](Week1/Day1/03_excersize.md) | [Exercise 4](Week1/Day1/04_excersize.md)
   - [Day 2](Week1/Day2/) - [Exercise 1](Week1/Day2/01_excersize.md) | [Exercise 2](Week1/Day2/02_excersize.md) | [Exercise 3](Week1/Day2/03_excersize.md)
   - [Day 3](Week1/Day3/) - [Exercise 1](Week1/Day3/01_excersize.md) | [Exercise 2](Week1/Day3/02_excersize.md) | [Exercise 3](Week1/Day3/03_excersize.md) | [Afternoon Session 1](Week1/Day3/04_afternoon_session.md) | [Afternoon Session 2](Week1/Day3/05_afternoon_session_sap_basics.md)
