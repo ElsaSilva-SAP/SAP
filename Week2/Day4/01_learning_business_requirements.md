@@ -62,27 +62,30 @@ In SAP projects, the same types apply in a concrete way:
 
 **Why do we need both “functional” and “non-functional” requirements?** *(Hint: one says what the system does; the other says how well it must do it.)*
 
-> ___________________________________________
-> ___________________________________________
+> Because a system that works functionally but is slow, insecure or unreliable still fails the business.
+Both what the system does and how well it performs determine success.
 
 ---
 
 ## 📝 Knowledge Check
 
 1. **What are business requirements, in one sentence?**
-   - ___________________________________________
+   - Business requirements define the activities, needs and conditions a system must fulfill to achieve organizational goals.
 
 2. **Name the four main requirement types.**
-   - ___________________________________________
+   - Functional
+   - non-functional
+   - stakeholder
+   - technical.
 
 3. **Give one example of a functional requirement in SAP.**
-   - ___________________________________________
+   - The system must automatically generate customer invoices in SAP S/4HANA.
 
 4. **Give one example of a non-functional requirement.**
-   - ___________________________________________
+   - The system must respond to user transactions within 2 seconds and maintain 99.9% uptime.
 
 5. **Why do “stakeholder requirements” matter in an SAP project?**
-   - ___________________________________________
+   - Because different groups (users, IT, management) have different needs and ignoring any group can cause project failure or resistance.
 
 ---
 
